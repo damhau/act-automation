@@ -8,6 +8,14 @@ How to migrate thousands of ip with little ressources and time.
 [Damien Hauser](http://www.dhconsulting.ch)
 @snapend
 
+
++++
+
+@title[Automation]
+
+![Tesla](https://fsmedia.imgix.net/c1/5d/79/c3/5732/410a/b8d7/64c8ce81bfa6/automation-inside-the-tesla-factory.jpeg)
+
+
 +++?image=template/img/bg/orange.jpg&position=right&size=50% 100%
 @title[Topics]
 
