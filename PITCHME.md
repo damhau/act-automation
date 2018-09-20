@@ -1,7 +1,7 @@
 @title[Automation]
 
 ## Automation<br> @Actelion
-How to migrate thousands of ip with little ressources and time.
+How to migrate thousands of ip with little resources and time.
 @fa[fa-heart text-white]
 
 @snap[south docslink span-50]
@@ -38,7 +38,7 @@ Topics to be covered today
 ### Project
 
 - Automate the migration to the new ip plan (Windows and Linux)
-- Take care of any dependancy (F5, Infoblox, Firewall, etc...)
+- Take care of any dependencies (F5, Infoblox, Firewall, etc...)
 - Short deadline and small team
 - Keep the systems validated :-)
 
@@ -104,7 +104,7 @@ Note: don't forget the mighty GXP
 @title[Result]
 
 @snap[west split-screen-byline text-white]
-We sucessfully migrated the VMs...
+We successfully migrated the VMs...
 @snapend
 
 @snap[midpoint split-screen-img]
@@ -122,7 +122,7 @@ With a team of 8 in 3 months.
 
 1. Quality of the inventory is very important
 2. Don't assume specific config on every systems (even if it should be the case): Disabling UAC on Windows was a PITA !
-3. When a system doens't have an api the Ansible shell module is your friend 
+3. When a system doesn't have an api the Ansible shell module is your friend 
 4. There is never enough communication and documentation
 
 +++
